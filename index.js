@@ -2,7 +2,7 @@ import { fifaData } from './fifa.js';
 
 // ⚽️ M  V P ⚽️ //
 
-/* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1: 
+/*  Task 1: 
 Practice accessing data by console.log-ing the following pieces of data note, you may want to filter the data first 😉*/
 
 //(a) Home Team name for 2014 world cup final
